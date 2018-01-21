@@ -21,7 +21,7 @@ import clarifai2.dto.model.ModelVersion;
 import clarifai2.dto.model.output.ClarifaiOutput;
 import clarifai2.dto.prediction.Concept;
 
-public class Main {
+public class MainClarifai {
 
     private static final float REQUIRED_CONFIDENCE = 0.8f;
 
